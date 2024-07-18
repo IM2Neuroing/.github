@@ -1,7 +1,9 @@
 ## IM2Neuroing - Neuroengineering Research Group
 Hi there 👋 and welcome to the Neuroengineering Research Group's GitHub repository! We are a dedicated team of researchers at the Institute for Medical Engineering and Medical Informatics, located at the University of Applied Sciences and Arts Northwestern Switzerland.
 
-![University Logo](Logo/043_FHNW_HLS_EN.png)![University Logo](Logo/044_FHNW_HLS_Weiss_EN.png)
+![University Logo](https://github.com/IM2Neuroing/.github/blob/0edb2b67dab033a9bc4f9ae072cb91cd72c74fb9/Logo/044_FHNW_HLS_Weiss_EN.png) 
+
+![University Logo](https://github.com/IM2Neuroing/.github/blob/0edb2b67dab033a9bc4f9ae072cb91cd72c74fb9/Logo/043_FHNW_HLS_EN.png)
 
 ## About Us
 
